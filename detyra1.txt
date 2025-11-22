@@ -1,0 +1,1 @@
+Detyra e pare: po e shtoj file detyra1.txt dhe po e ngarkoj ne git hub
