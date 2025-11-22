@@ -1,0 +1,1 @@
+Po krijoj file detyra2.txt dhe po e shkarkoj ne vs.code
